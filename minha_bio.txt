@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Estou cursando Ciência da Computação na Unisagrado.
+=======
+Estou cursando Ciência da Computação na Unisagrado.
+>>>>>>> 4b7214d7dc711b41610b4cd602e68d8ba11d50fb
